@@ -173,7 +173,7 @@ AWS resources:
 ![doorwatch_modified_architecture](https://user-images.githubusercontent.com/42819574/49758088-ebf56780-fc72-11e8-99dc-07b661b8345a.png)
 
 
-CI/CD diagram:
+## CI/CD diagram:
 
 ![blank diagram 12](https://user-images.githubusercontent.com/42703827/49704468-5c937a00-fbc8-11e8-8f80-94ff8f75bdd8.png)
 
