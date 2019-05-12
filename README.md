@@ -79,7 +79,7 @@ Alexa device is used for human assistance. Whenever there is a visitor, user can
 <img width="219" alt="sample" src="https://user-images.githubusercontent.com/42819574/49701278-3b6a6380-fb9f-11e8-8aac-cba1f05c577b.PNG">
 
 
-Pre-requisites Set Up
+## Pre-requisites Set Up
 
 
 AWS resources:
