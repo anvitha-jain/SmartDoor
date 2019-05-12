@@ -83,7 +83,7 @@ Alexa device is used for human assistance. Whenever there is a visitor, user can
 ## Pre-requisites Set Up
 
 
-AWS resources:
+### AWS resources:
 
 
 •	**EC2:** This service is used to display the image of visitor on screen
