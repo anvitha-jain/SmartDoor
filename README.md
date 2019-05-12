@@ -106,19 +106,19 @@ AWS resources:
 
 •	**Lifecycle Rules:** This service is used for automatic data storage tiering to different storage layers such as S3, S3-IA and Amazon Glacier
 
-•	Versioning: This feature is enabled on S3 bucket.
+•	**Versioning:** This feature is enabled on S3 bucket.
 
-•	CloudWatch alarms: alarms are raised whenever particular instances occurs such as spin up of EC2 instances, termination of EC2 instances etc.
+•	**CloudWatch alarms:** alarms are raised whenever particular instances occurs such as spin up of EC2 instances, termination of EC2 instances etc.
 
-•	CloudTrail: Used for logging the application events such as API calls.
+•	**CloudTrail:** Used for logging the application events such as API calls.
 
-•	AWS Lambda: This service is used for human recognition and to invoke the Alexa skill.
+•	**AWS Lambda:** This service is used for human recognition and to invoke the Alexa skill.
 
-•	AWS IOT Core: This service is used to register the thing (Raspberry Pi) using certificates.
+•	**AWS IOT Core:** This service is used to register the thing (Raspberry Pi) using certificates.
 
-•	AWS Rekognition: This service is used for human recognition and comparision between the faces.
+•	**AWS Rekognition:** This service is used for human recognition and comparision between the faces.
 
-•	Polly: This is a text to speech service that informs the user about visitor's presence with buzzer.
+•	**Polly:** This is a text to speech service that informs the user about visitor's presence with buzzer.
 
 •	Alexa Skill: Alexa skill is used to invoke the alexa device for human assistance.
 
