@@ -57,7 +57,7 @@ Alexa device is used for human assistance. Whenever there is a visitor, user can
 
 
 ## Components Used:
----
+
 
 1. Raspberry Pi: This is a device that can communicate over the network. We are mounting camera, motion sensor and speaker on the pi to communicate the presence of visitor over the network.
 
