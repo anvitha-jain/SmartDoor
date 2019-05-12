@@ -120,13 +120,13 @@ AWS resources:
 
 •	**Polly:** This is a text to speech service that informs the user about visitor's presence with buzzer.
 
-•	Alexa Skill: Alexa skill is used to invoke the alexa device for human assistance.
+•	**Alexa Skill:** Alexa skill is used to invoke the alexa device for human assistance.
 
-•	Dynamodb: AWS Dynamodb is used to store and retrieve the information about family members.
+•	**Dynamodb:** AWS Dynamodb is used to store and retrieve the information about family members.
 
-• VPC: Virtual Private Cloud is used for isolation of the network.
+• **VPC:** Virtual Private Cloud is used for isolation of the network.
 
-• IAM: IAM user and role is used to grant permissions to access AWS resources to authorized users.
+• **IAM:** IAM user and role is used to grant permissions to access AWS resources to authorized users.
 
 
 List of required softwares:
