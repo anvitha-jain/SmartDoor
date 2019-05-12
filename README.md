@@ -1,13 +1,13 @@
 # SmartDoor
 
 
-University Name: http://www.sjsu.edu/
+**University Name:** http://www.sjsu.edu/
 
-Course: Cloud Services
+**Course:** Cloud Services
 
-Professor: Andrew Bond
+**Professor:** Andrew Bond
 
-Students:
+**Students:**
 
 Amrutha Singh Balaji Singh https://www.linkedin.com/in/amruthasinghb/
 
@@ -17,15 +17,15 @@ Snehal Yeole https://www.linkedin.com/in/snehal-yeole-35889188/
 
 Anvitha Subhaveer Jain 
 
-Video Links: 
+## Video Links: 
 
-SmartDoor Components Explanation: https://youtu.be/v5d7apayYfU
-
-
-AWS Configurations and CI/CD: https://drive.google.com/file/d/10EHy1K4jAb1J2XXPhdj-1FTTfMtG60m6/view?usp=sharing
+**SmartDoor Components Explanation:** https://youtu.be/v5d7apayYfU
 
 
-Project Introduction:
+**AWS Configurations and CI/CD:** https://drive.google.com/file/d/10EHy1K4jAb1J2XXPhdj-1FTTfMtG60m6/view?usp=sharing
+
+
+## Project Introduction:
 
 SmartDoor will overcome the home security issues without having to open the door, move a curtain or peak through a window, without making your presence known, just by notifying audibly and visually screening the visitors by recording all the motion events at your doorstep and pushing it to the Amazon Web Services cloud. 
 Smart Home security is becoming the main concern nowadays. The main idea behind this project is to build a smart door security system that notifies the user about the presence of visitor. Whenever there is a visitor at the front door, user will be informed with alarming buzzer and the person’s image will be displayed on user’s request. 
@@ -34,7 +34,7 @@ Alexa device is used for human assistance. Whenever there is a visitor, user can
 
 
 
-Feature List:
+## Feature List:
 
 
 
@@ -56,7 +56,8 @@ Feature List:
 
 
 
-Components Used:
+## Components Used:
+---
 
 1. Raspberry Pi: This is a device that can communicate over the network. We are mounting camera, motion sensor and speaker on the pi to communicate the presence of visitor over the network.
 
