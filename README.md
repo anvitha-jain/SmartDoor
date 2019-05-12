@@ -129,7 +129,7 @@ AWS resources:
 • **IAM:** IAM user and role is used to grant permissions to access AWS resources to authorized users.
 
 
-List of required softwares:
+## List of required softwares:
 
 
 • Python Boto3
@@ -142,7 +142,7 @@ List of required softwares:
 
 
 
-Hardware:
+## Hardware:
 
 
 • Raspberry Pi
