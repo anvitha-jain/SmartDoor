@@ -154,7 +154,7 @@ AWS resources:
 • Amazon Alexa
 
 
-Set up the project locally:
+## Set up the project locally:
 
 
 • Configure two Raspberry Pi's. One for sensing the motion and other one for lighting the LED's
@@ -166,7 +166,7 @@ Set up the project locally:
 • Configure Alexa device
 
 
-Architecture Diagram:
+## Architecture Diagram:
 
 
 
