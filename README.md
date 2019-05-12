@@ -6,7 +6,7 @@ Course: Cloud Services
 
 Professor: Andrew Bond
 
-Student:
+Students:
 
 Amrutha Singh Balaji Singh https://www.linkedin.com/in/amruthasinghb/
 
