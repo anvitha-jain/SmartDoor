@@ -94,17 +94,17 @@ AWS resources:
 
 •	**SNS:** It sends the text notification to the user (SMS and Email Notifications).
 
-•	CloudWatch: Used for monitoring the logs
+•	**CloudWatch:** Used for monitoring the logs
 
-•	Route53: This service is used to host a domain to make application publically available
+•	**Route53:** This service is used to host a domain to make application publically available
 
-•	S3: Used for storing the images
+•	**S3:** Used for storing the images
 
-•	S3 Cross Region Replication: This service is used for Disaster Recovery in case of region outage
+•	**S3 Cross Region Replication:** This service is used for Disaster Recovery in case of region outage
 
-•	CloudFront: It reduces the latency and increases throughput
+•	**CloudFront:** It reduces the latency and increases throughput
 
-•	Lifecycle Rules: This service is used for automatic data storage tiering to different storage layers such as S3, S3-IA and Amazon Glacier
+•	**Lifecycle Rules:** This service is used for automatic data storage tiering to different storage layers such as S3, S3-IA and Amazon Glacier
 
 •	Versioning: This feature is enabled on S3 bucket.
 
