@@ -15,7 +15,7 @@ Poorva Agarwal https://www.linkedin.com/in/poorva-agarwal/
 
 Snehal Yeole https://www.linkedin.com/in/snehal-yeole-35889188/
 
-Anvitha Subhaveer Jain 
+Anvitha Subhaveer Jain https://www.linkedin.com/in/anvitha-jain-98170a10b/
 <br/>
 
 ## Video Links: 
