@@ -6,29 +6,34 @@ import os
 
 def customCallback(client, userdata, message):
     print("Received a new message: ")
+    print("from topic: ")
+    print(message.topic)
+    print("--------------\n\n")
     print(message.payload)
-    response = polly_client.synthesize_speech(VoiceId='Joanna',
-                        OutputFormat='mp3', 
-                                        Text = 'We have a visitor.')
+    
+    data = message.payload
+    jsonData = json.loads(data)
+    speechText = "We have a guest."
+    if(jsonData['visitior_name'] != 'guest'):
+        speechText = "We have " + jsonData['visitior_name'] + " at the door."
+	
+    response = polly_client.synthesize_speech(VoiceId='Joanna', OutputFormat='mp3', Text = speechText)
 
     file = open('speech9.mp3', 'w')
     file.write(response['AudioStream'].read())
     file.close()
     os.system('mpg123 -q speech9.mp3')
-    print("from topic: ")
-    print(message.topic)
-    print("--------------\n\n")
 
 clientId = "myClientID4"
-thingEndpoint = '*************************'
-certificatePath = '*******************************'
-privateKeyPath = '***************************'
-rooCACertPath = '*********************'
+thingEndpoint = ''
+certificatePath = ''
+privateKeyPath = ''
+rooCACertPath = ''
 
 polly_client = boto3.Session(
-                        aws_access_key_id='*************************',                     
-                            aws_secret_access_key='****************************',
-                                region_name='************************').client('polly')
+                        aws_access_key_id='',                     
+                            aws_secret_access_key='',
+                                region_name='us-east-1').client('polly')
 
 print "before setup1 ..."
 
@@ -53,13 +58,15 @@ myMQTTClient.subscribe(myTopic, 0, customCallback)
 while True:
   None
 
-# i = 0
-# while True:
-  # i = i +1
-  # message = {}
-  # message['message'] = "This is message"
-  # message['type'] = "This is message type"
-  # message['count'] = i
-  # messageJson = json.dumps(message)
-  # myMQTTClient.publish(myTopic, messageJson, 0)
-  # time.sleep(2)
+
+
+
+
+
+
+
+
+
+
+
+
