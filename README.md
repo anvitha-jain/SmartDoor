@@ -15,7 +15,7 @@ Poorva Agarwal https://www.linkedin.com/in/poorva-agarwal/
 
 Snehal Yeole https://www.linkedin.com/in/snehal-yeole-35889188/
 
-Anvitha Subhaveer Jain https://www.linkedin.com/in/anvitha-jain-98170a10b/
+Anvitha Shubhaveer Jain https://www.linkedin.com/in/anvitha-jain-98170a10b/
 <br/>
 
 ## Video Links: 
@@ -159,7 +159,7 @@ Alexa device is used for human assistance. Whenever there is a visitor, user can
 ## Set up the project locally:
 
 
-• Configure two Raspberry Pi's. One for sensing the motion and other one for lighting the LED's
+• First configure two Raspberry Pi's. One for sensing the motion and other one for lighting the LED's
 
 • Set up the python scripts for camera and motion sensor
 
